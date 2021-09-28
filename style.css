@@ -160,6 +160,7 @@ body {
   margin-top: 10px;
 }
 
+/* dark theme */
 .dark .container {
   background: #333439;
   color: #f7f7f7;
@@ -171,6 +172,11 @@ body {
 
 .dark .icones a {
   color: #f7f7f7;
+}
+
+.dark .icones a:hover {
+  color: #9d00b6;
+  text-decoration: none;
 }
 
 .dark .tema button {
